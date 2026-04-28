@@ -83,6 +83,16 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 11
+      - name: Daniel Klee
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_1
+          - nameIdentifier: https://orcid.org/0000-0003-2992-7662
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 12
     creators:
       - name: Betts Peters
         nameType: Personal
@@ -107,6 +117,9 @@ data:
         nameType: Personal
       - name: Melanie Fried-Oken
         nameType: Personal
+      - name: Daniel Klee
+        nameType: Personal
+        nameIdentifiers: *ref_1
     descriptions:
       - description: N/A
         descriptionType: Abstract
