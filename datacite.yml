@@ -80,6 +80,16 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 11
+      - name: Tab Memmott
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0000-0001-6143-5057
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 12
     creators:
       - name: Betts Peters
         nameType: Personal
@@ -103,6 +113,9 @@ data:
         nameType: Personal
       - name: Melanie Fried-Oken
         nameType: Personal
+      - name: Tab Memmott
+        nameType: Personal
+        nameIdentifiers: *ref_0
     descriptions:
       - description: N/A
         descriptionType: Abstract
