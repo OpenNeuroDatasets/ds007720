@@ -1,0 +1,8 @@
+﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description
+Cz	EEG	V	0.0	150.0	ElectroEncephaloGram	300.0	good	n/a
+Oz	EEG	V	0.0	150.0	ElectroEncephaloGram	300.0	good	n/a
+P4	EEG	V	0.0	150.0	ElectroEncephaloGram	300.0	good	n/a
+P3	EEG	V	0.0	150.0	ElectroEncephaloGram	300.0	good	n/a
+PO8	EEG	V	0.0	150.0	ElectroEncephaloGram	300.0	good	n/a
+Pz	EEG	V	0.0	150.0	ElectroEncephaloGram	300.0	good	n/a
+PO7	EEG	V	0.0	150.0	ElectroEncephaloGram	300.0	good	n/a
