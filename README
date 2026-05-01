@@ -29,7 +29,7 @@ Paradigms
 ----------------------------------------
 - Paradigms: Matrix, RSVP
 - Task types: Calibration, CopyPhrase
-- Stimulus alphabet: A–Z and backspace ("<"), for 27 selectable characters
+- Stimulus alphabet: A–Z, backspace ("<"), and space ("_"), for 28 selectable characters
 
 
 Participants
