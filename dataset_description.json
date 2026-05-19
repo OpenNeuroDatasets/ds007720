@@ -27,7 +27,7 @@
     "ReferencesAndLinks": [
         "https://github.com/CAMBI-tech/BciPy"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds007720.v1.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007720.v1.0.1",
     "GeneratedBy": [
         {
             "Name": "BciPy convert_study_to_bids.py",
